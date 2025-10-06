@@ -1,8 +1,6 @@
-# CARRENTALS
+# CAR RENTAL 
 
-![CARRENTALS](https://sajadh.vercel.app/assets/carrental2-97241127.jpeg)
-
-CARRENTALS is a MERN stack project developed using Vite. It's a car rental website that provides an online platform for users to rent cars for personal or business use. The website offers features for searching, comparing, and reserving cars.
+CAR RENTAL is a MERN stack project developed using Vite. It's a car rental website that provides an online platform for users to rent cars for personal or business use. The website offers features for searching, comparing, and reserving cars.
 
 ## Built With
 - MongoDB
@@ -22,11 +20,11 @@ To get started with CARRENTALS, follow these steps:
 ### Installation
 1. Clone the repository
    ```sh
-   git clone https://github.com/SAJUSAJADH/CARRENTALS.git
+   git clone https://github.com/Jawshf/CarRental-Master.git
    
 2. Navigate to the project directory
  
-   cd CARRENTALS
+   cd CAR RENTAL
    
 4.Install dependencies
 
@@ -38,9 +36,9 @@ To get started with CARRENTALS, follow these steps:
 
 2. Run the application
 
-  npm start
+  npm run dev
 
-3. Open your browser and navigate to http://localhost:3000
+3. Open your browser and navigate to http://localhost:5000
 
 ### Features
 
@@ -69,6 +67,6 @@ Acknowledge any third-party libraries or resources used in your project.
 
 ### Contact
 
-For any inquiries or support, please contact Sajadh S. at sajadh2001s@gmail.com.
+For any inquiries or support, please contact Jawad Shariff at jawadjunaid98@gmail.com
 
 
